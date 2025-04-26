@@ -3980,10 +3980,7 @@ CREATE TABLE `clinic_business_account_paymentintegration` (
 -- Dumping data for table `clinic_business_account_paymentintegration`
 --
 
-INSERT INTO `clinic_business_account_paymentintegration` (`pid`, `account_id`, `public_key`, `secret_key`, `status`, `mode`, `date_created`) VALUES
-(1, 1, 'pk_test_9srNwze4WeVdFhYzBdzDTN6W', 'sk_test_w2jX6orfaJGqCeDMXsHqA2SD', 'Active', 'Testing', '2025-03-18'),
-(3, 8, 'pk_test_9srNwze4WeVdFhYzBdzDTN6W', 'sk_test_w2jX6orfaJGqCeDMXsHqA2SD', 'Active', 'Testing', '2025-04-13'),
-(5, 10, 'pk_test_9srNwze4WeVdFhYzBdzDTN6W', 'sk_test_w2jX6orfaJGqCeDMXsHqA2SD', 'Active', 'Testing', '2025-04-22');
+
 
 -- --------------------------------------------------------
 
@@ -4104,8 +4101,7 @@ CREATE TABLE `clinic_business_main_paymongo_configuration` (
 -- Dumping data for table `clinic_business_main_paymongo_configuration`
 --
 
-INSERT INTO `clinic_business_main_paymongo_configuration` (`config_id`, `pk_id`, `sk_id`, `status`, `date_created`) VALUES
-(1, 'pk_test_9srNwze4WeVdFhYzBdzDTN6W', 'sk_test_w2jX6orfaJGqCeDMXsHqA2SD', 'ACTIVE', '2025-03-18');
+
 
 -- --------------------------------------------------------
 

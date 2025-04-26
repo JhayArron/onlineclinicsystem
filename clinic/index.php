@@ -289,11 +289,7 @@ if(!empty($_GET['action']))
     <!-- Main CSS File -->
     <link href="../assets/css/main.css" rel="stylesheet">
     <?php  include('../assets/alert/genericSwal.php'); ?>
-    <!-- =======================================================
-  * Template Name: Online Clinic System | OCS
-  * Updated: Nov 13, 2024
-  * Author: GMF
-  ======================================================== -->
+
 </head>
 
 <body class="index-page">
